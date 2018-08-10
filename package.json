@@ -1,0 +1,12 @@
+{
+  "name": "log",
+  "version": "1.0.0",
+  "description": "Simple logger for abstracting logging in browser and node environments.\r Uses static functions for easy importing accross multiple classes without multiple instances.\r Filtering logs can be done via the LOG_LEVEL environment variable.\r Dynamic setting functionality reserved as a possibility in the future.",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": [],
+  "author": "Damien Golding",
+  "license": "MIT"
+}
